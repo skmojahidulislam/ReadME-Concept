@@ -1,3 +1,3 @@
 # ReadME-Concept
-##Sk-Mujahid
-###Sk-Mojahidul-Isklam
+## Sk-Mujahid
+### Sk-Mojahidul-Isklam
